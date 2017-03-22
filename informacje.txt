@@ -1,0 +1,14 @@
+
+
+----------------DO ZROBIENIA---------------
+dodaæ logo platerki 265x265 px
+ogarn¹æ jakieœ normalne t³o
+
+
+------------------TABELE-------------------
+<th colspan="2"> ³¹czy 2 komórki tabeli
+<tr> robi normalne komórki
+
+
+--------------OG£OSZENIA DROBNE------------
+sprzedam opla
